@@ -1,0 +1,127 @@
+sex,height,weight,ape_index,years_climbing,grade,recent_grade,onsight_grade,climbing_sessions,hours_climbing,hours_training,hangboard_freq,hangboard_grips,hangboard_protocol,campusboard_freq,hours_campusboard,endurance_frequency,endurance_protocol,strength_freq,hours_strength,strength_protocol,max_pull,max_push,bmi
+Male,173,70,-5,9,5,4,3,2,6,1,1,Half Crimp,Max weight,0,0,1,"Laps of routes, route climbing intervals",0,0,"Antagonists, Legs, Core, No other strength training",8,30,0.002338869
+Male,186,88,-6,1.5,5,5,3,3,8,8,1,"Half Crimp, Open Crimp, Slopers",Repeaters,0,0,2,"Laps of routes, route climbing intervals, threshold intervals",3,4,"Antagonists, Core, Upper body pulling, Upper body pushing",9,25,0.002543647
+Male,163,65,-2,5,11,9,7,4,12,4,1,"Open Crimp, Back 3, Front 2, Middle 2, Monos","Min Edge, Repeaters",2,1,0,I don't train for endurance,0,0,No other strength training,35,120,0.00244646
+Male,176,60,-1,2.5,7,7,5,3,8,2,1,"Half Crimp, Front 3, Middle 2, Slopers",Repeaters,0,0,0,"Laps of routes, ARC",1,1,"Antagonists, Core, Upper body pushing",10,30,0.001936983
+Male,190,82,-7,2.5,6,5,4,3,4,2,2,Half Crimp,Other protocol,0,0,2,"ARC, other",2,2,"Antagonists, Core, Upper body pulling, Upper body pushing",10,30,0.002271468
+Male,177,66,-1,7.5,7,7,6,3,8,1,0,"Full Crimp, Half Crimp, Open Crimp, Front 3, Back 3, Front 2, Middle 2, Back 2, Slopers",Repeaters,0,0,1,"4x4, hangboard repeater protocols, Laps of routes, Feet on 'campusing'",1,1,"Antagonists, Core, Upper body pulling, Upper body pushing",20,40,0.002106674
+Male,179,69,1,12,10,7,8,3,5,7,3,"Half Crimp, Open Crimp, Slopers",Repeaters,2,1,0,I don't train for endurance,3,5,"Antagonists, Core, Upper body pulling, Upper body pushing",12,20,0.002153491
+Female,165.1,53,0,3.5,3,3,1,5,10,3,1,"Open Crimp, Front 2, Middle 2, Back 2",Repeaters,0,0,0,I don't train for endurance,3,2,"Antagonists, Core, Upper body pulling, Upper body pushing",5,11,0.001944383
+Male,183,100,-2,2,6,5,4,2,4,0,0,"Half Crimp, Open Crimp, Front 3, Front 2, Middle 2, Slopers, Pinch",Repeaters,0,0,0,"4x4, systems boards, Laps of routes, ARC",2,2,"Legs, Core, Upper body pulling, Upper body pushing",12,70,0.002986055
+Male,167,60,-12,3.5,9,9,4,3,6,3,3,Half Crimp,"Max weight, Repeaters",0,0,0,hangboard repeater protocols,2,2,"Core, Upper body pulling, Upper body pushing",13,22,0.002151386
+Male,173,86,0,1.5,6,4,4,3,4,4,2,"Full Crimp, Half Crimp, Open Crimp, Front 3, Back 3, Front 2, Middle 2, Slopers, Pinch","Min Edge, Repeaters",2,2,2,"4x4, Max moves, Laps of routes, ARC",4,8,"Antagonists, Legs, Core, Upper body pulling, Upper body pushing",32,286,0.002873467
+Male,182,72,0,15,11,10,9,3,4,2,3,"Open Crimp, Front 3, Back 3","Max weight, Min Edge, Repeaters",1,1,1,threshold intervals,2,1,"Antagonists, Legs, Core, Upper body pulling, Upper body pushing",25,25,0.002173651
+Male,193,79,0,2,8,8,5,3,7,6,3,Half Crimp,Repeaters,0,0,0,I don't train for endurance,3,6,"Antagonists, Core, Upper body pushing",20,30,0.002120862
+Male,186,72.5,-4,2,8,8,5,4,8,8,3,Half Crimp,"Max weight, Min Edge",0,0,3,ARC,3,6,"Antagonists, Core, Upper body pulling, Upper body pushing",20,15,0.002095618
+Male,180,86,3,0.5,7,7,5,3,9,2,1,"Full Crimp, Half Crimp, Open Crimp, Front 3, Back 3, Front 2, Middle 2, Back 2, Slopers, Pinch",Repeaters,1,1,1,"4x4, hangboard repeater protocols, Max moves, Laps of routes, Feet on 'campusing', route climbing intervals",0,0,No other strength training,45,112,0.002654321
+Male,174,75,-6,11.5,6,6,4,3,8,0,2,Open Crimp,Repeaters,0,0,1,hangboard repeater protocols,0,0,No other strength training,20,25,0.00247721
+Male,178,59,-5,2.5,8,7,6,3,6,3,2,"Half Crimp, Middle 2, Slopers, Pinch","Max weight, Repeaters",2,2,1,"4x4, ARC",2,1,"Legs, Core, Upper body pulling, Upper body pushing",12,30,0.001862139
+Male,178,70,-17,14.5,13,13,11,4,12,4,2,"Half Crimp, Open Crimp",Max weight,1,1,1,"4x4, threshold intervals, other",3,3,"Antagonists, Legs, Core, Upper body pulling, Upper body pushing",25,40,0.002209317
+Male,178,75,-2,5.5,7,7,5,4,5,5,1,Half Crimp,Max weight,0,0,1,Laps of routes,4,3,"Antagonists, Legs, Core, Upper body pulling, Upper body pushing",12,45,0.002367125
+Male,174,73,-5,4,7,7,5,3,5,2,2,"Half Crimp, Middle 2",Max weight,0,0,0,other,1,1,Antagonists,15,35,0.002411151
+Male,170,66.5,-1,10.5,4,4,3,2,4,8,1,"Full Crimp, Open Crimp",Max weight,0,0,3,other,1,1,"Legs, Core, Upper body pulling, Upper body pushing",10,30,0.002301038
+Male,180,74,0,2,8,6,4,3,9,0,3,"Half Crimp, Open Crimp",Max weight,0,0,0,I don't train for endurance,3,5,"Antagonists, Legs, Core, Upper body pulling, Upper body pushing",12,30,0.002283951
+Male,160,52,-3,2,7,7,5,3,9,9,3,"Half Crimp, Open Crimp",Max weight,3,1,0,I don't train for endurance,3,3,"Antagonists, Legs, Core, Upper body pushing",15,50,0.00203125
+Male,177,71,-1,15,10,9,8,3,7,2,2,"Full Crimp, Half Crimp, Open Crimp, Middle 2","Max weight, Repeaters",2,1,2,"threshold intervals, other",3,2,"Antagonists, Legs, Core, Upper body pulling, Upper body pushing",25,25,0.002266271
+Male,180,63,3,15,9,8,7,3,4,6,2,"Half Crimp, Open Crimp, Pinch",Max weight,0,0,0,I don't train for endurance,1,1,Core,22,35,0.001944444
+Male,183,77.5,-10,2.5,10,10,7,5,12,6,3,"Half Crimp, Open Crimp, Back 2","Max weight, Min Edge",1,1,0,I don't train for endurance,3,4,"Antagonists, Core, Upper body pulling, Upper body pushing",18,42,0.002314193
+Male,182,78,-8,3,7,6,4,3,2,3,1,"Half Crimp, Open Crimp, Pinch",Repeaters,0,0,0,I don't train for endurance,2,1,"Antagonists, Legs, Core, Upper body pulling, Upper body pushing",20,50,0.002354788
+Male,185,86,-3,10,7,6,5,2,5,1,0,"Open Crimp, Front 3, Front 2, Middle 2, Slopers",Other protocol,2,1,0,I don't train for endurance,0,0,"Antagonists, Core, Upper body pushing",15,20,0.002512783
+Male,184,75,-3,3.5,7,7,5,3,12,6,1,"Full Crimp, Half Crimp, Open Crimp, Front 3, Front 2, Slopers, Monos",Max weight,1,1,2,"Laps of routes, route climbing intervals",2,8,"Antagonists, Legs, Core, Upper body pushing",20,50,0.002215265
+Male,180,73.4,-3,7,10,10,6,3,2,5,1,"Full Crimp, Half Crimp, Open Crimp, Front 3, Back 3, Slopers, Pinch",Max weight,0,0,0,I don't train for endurance,3,1,"Antagonists, Core, Upper body pulling, Upper body pushing",25,45,0.002265432
+Female,168,52,-4,7.5,6,6,4,3,7,6,2,"Full Crimp, Half Crimp, Open Crimp, Slopers",Repeaters,2,2,2,"Laps of routes, other",1,1,"Core, Upper body pulling",17,46,0.001842404
+Male,180,70.3,-7,9,11,9,8,4,8,8,2,"Half Crimp, Pinch","Max weight, Repeaters",0,0,2,"4x4, hangboard repeater protocols",2,4,"Antagonists, Legs, Core, Upper body pulling, Upper body pushing",18,21,0.002169753
+Male,182,72.5,0,3,4,4,2,2,5,0,0,"Half Crimp, Front 3, Slopers",Max weight,0,0,0,4x4,0,1,"Antagonists, Core",10,50,0.002188745
+Male,176,58,-3,5.5,10,9,8,4,12,6,2,"Half Crimp, Open Crimp, Front 3, Back 3, Front 2, Middle 2, Slopers, Pinch",Repeaters,1,1,1,"hangboard repeater protocols, Max moves, Laps of routes, ARC, Feet on 'campusing', route climbing intervals",3,1,"Antagonists, Core, Upper body pulling, Upper body pushing",50,50,0.001872417
+Male,178,78,-7,3,7,6,4,4,6,8,1,"Full Crimp, Open Crimp, Front 3, Middle 2, Slopers",Repeaters,3,1,1,Laps of routes,1,2,"Core, Upper body pulling",15,40,0.00246181
+Male,165,63,-4,14.5,10,6,6,1,3,1,2,"Full Crimp, Half Crimp, Open Crimp, Front 3, Middle 2, Slopers",Repeaters,1,1,0,"4x4, hangboard repeater protocols, ARC",2,1,"Antagonists, Legs, Core, Upper body pulling, Upper body pushing",20,50,0.00231405
+Male,178,75,-2,13,10,10,7,4,16,4,2,Half Crimp,Max weight,0,0,2,"Laps of routes, ARC",2,1,"Antagonists, Upper body pushing",25,50,0.002367125
+Male,180,74,-11,1,9,9,6,5,15,2,2,"Half Crimp, Front 2, Back 2",Max weight,1,1,0,,1,1,"Core, Upper body pulling, Upper body pushing",16,55,0.002283951
+Male,160,52,-3,1,5,4,3,2,5,2,1,Open Crimp,"""no hangs""",0,0,0,I don't train for endurance,2,2,"Antagonists, Legs, Core, Upper body pushing",17,30,0.00203125
+Male,175,77,-10,1.5,9,7,6,3,9,3,2,"Half Crimp, Open Crimp, Front 2, Middle 2, Slopers","Min Edge, Repeaters",0,0,1,"4x4, hangboard repeater protocols, Max moves",2,3,"Antagonists, Core, Upper body pulling, Upper body pushing",20,50,0.002514286
+Male,175,62.6,5,7.5,10,10,7,4,12,4,1,"Half Crimp, Open Crimp","Max weight, Repeaters, ""no hangs""",0,0,1,"4x4, hangboard repeater protocols, ARC",2,3,"Antagonists, Legs, Core, Upper body pulling, Upper body pushing",25,25,0.002044082
+Male,181,74,-1,0,5,5,2,2,5,1,1,"Half Crimp, Open Crimp, Front 3, Back 3, Front 2, Middle 2, Slopers","Min Edge, Repeaters",0,0,0,I don't train for endurance,1,1,"Legs, Core, Upper body pushing",22,44,0.002258783
+Female,180,76,-5,15,9,7,7,4,4,6,2,"Full Crimp, Open Crimp, Front 2, Middle 2, Back 2",Max weight,2,1,2,systems boards,2,1,"Legs, Core, Upper body pulling, Upper body pushing",13,30,0.002345679
+Female,167,57,-7,13.5,9,7,5,4,10,4,3,Half Crimp,Max weight,2,1,1,Max moves,3,3,"Antagonists, Legs, Core, Upper body pulling, Upper body pushing",12,8,0.002043817
+Male,177,63,-11,3.5,10,9,6,6,14,4,2,Half Crimp,One arm hang program,1,1,0,4x4,2,2,"Antagonists, Core, Upper body pushing",31,50,0.002010916
+Male,171,59,111,2.5,6,6,5,2,10,1,1,"Half Crimp, Open Crimp, Middle 2",Repeaters,1,1,1,4x4,2,1,"Antagonists, Core, Upper body pushing",20,25,0.002017715
+Male,170,75,0,11,9,8,7,4,7,6,1,"Half Crimp, Open Crimp, Front 3, Slopers","Max weight, Min Edge",0,0,1,"4x4, systems boards, Laps of routes",4,6,"Antagonists, Legs, Core, Upper body pushing",25,50,0.002595156
+Male,166,53,6,2.5,6,6,3,3,5,3,1,"Half Crimp, Open Crimp",Repeaters,1,1,0,ARC,1,1,Core,10,15,0.001923356
+Male,168,65,-22,3.5,6,6,5,3,14,2,3,"Open Crimp, Front 3, Slopers, Pinch, Monos","Min Edge, Repeaters",3,1,1,"4x4, ARC",2,2,"Legs, Core, Upper body pulling, Upper body pushing",15,30,0.002303005
+Male,176,81,-2,15,12,11,9,3,4,3,2,Half Crimp,"Max weight, Min Edge",1,1,1,I don't train for endurance,2,1,"Antagonists, Core",15,40,0.002614928
+Female,165,53.5,-7,8,6,4,4,2,5,5,2,"Half Crimp, Open Crimp, Front 3, Back 3, Front 2, Middle 2, Back 2, Slopers, Pinch","Max weight, Repeaters",1,1,0,I don't train for endurance,2,4,"Antagonists, Legs, Core, Upper body pushing",12,15,0.001965106
+Male,188,75,-5,15,8,7,6,4,4,4,2,"Half Crimp, Open Crimp, Middle 2, Pinch","Max weight, Repeaters",0,0,2,"4x4, Laps of routes, route climbing intervals",2,2,"Antagonists, Legs, Core, Upper body pulling, Upper body pushing",16,30,0.002122001
+Male,180,79,-3,5.5,9,9,6,3,9,2,1,"Half Crimp, Open Crimp, Front 3, Slopers",Min Edge,0,0,1,4x4,1,1,"Antagonists, Core, Upper body pulling, Upper body pushing",20,50,0.002438272
+Male,178,65,0,3,7,7,5,3,9,1,1,Open Crimp,Max weight,0,0,1,Laps of routes,0,0,No other strength training,12,100,0.002051509
+Male,177,73,-6,14,12,11,10,4,12,4,3,"Full Crimp, Half Crimp, Back 2",Max weight,2,1,0,I don't train for endurance,3,2,"Antagonists, Core, Upper body pulling, Upper body pushing",20,40,0.002330109
+Male,183,73,-9,4,5,3,4,1,4,3,1,"Full Crimp, Half Crimp, Open Crimp, Front 3, Front 2, Middle 2, Slopers",Repeaters,0,0,0,hangboard repeater protocols,2,4,"Antagonists, Legs, Core, Upper body pulling, Upper body pushing",20,20,0.00217982
+Male,188,77,0,9.5,7,7,6,3,9,1,1,"Half Crimp, Front 2, Middle 2","Max weight, Min Edge",1,1,0,I don't train for endurance,1,1,"Antagonists, Legs, Upper body pulling, Upper body pushing",14,30,0.002178588
+Male,173,72,0,15,7,6,6,3,12,4,1,"Half Crimp, Open Crimp, Front 3, Back 3, Front 2, Middle 2, Back 2, Slopers, Pinch",Repeaters,1,1,1,"Laps of routes, other",1,1,"Antagonists, Core, Upper body pulling, Upper body pushing",20,30,0.002405693
+Male,193,88,-5,15,5,4,3,3,8,2,1,Half Crimp,Repeaters,0,0,1,"4x4, hangboard repeater protocols, ARC",2,2,"Antagonists, Legs, Core, Upper body pulling, Upper body pushing",11,28,0.00236248
+Male,179,74,0,2.5,6,6,4,1,5,4,2,"Half Crimp, Open Crimp","Min Edge, Other protocol",0,0,1,"Max moves, other",2,4,"Antagonists, Core, Upper body pulling, Upper body pushing",15,25,0.002309541
+Male,189,74,-3,8,12,11,9,5,13,2,2,Half Crimp,"Max weight, Repeaters, One arm hang program",0,0,1,"ARC, other",2,2,"Antagonists, Core, Upper body pulling, Upper body pushing",25,50,0.002071611
+Female,159,53,1,10.5,7,7,4,2,6,6,1,"Full Crimp, Half Crimp, Open Crimp, Front 3, Back 3, Slopers, Pinch","Max weight, Repeaters, One arm hang program, Other protocol",1,2,2,"hangboard repeater protocols, systems boards, Laps of routes, route climbing intervals",1,2,"Antagonists, Legs, Core, Upper body pulling, Upper body pushing",12,10,0.002096436
+Male,174,57,-6,6,12,11,8,4,5,12,1,"Full Crimp, Half Crimp, Open Crimp, Monos","Max weight, Min Edge, Repeaters, One arm hang program",0,0,3,"4x4, Laps of routes, threshold intervals",1,2,"Core, Upper body pulling, Upper body pushing",35,80,0.001882679
+Male,180,68,-1,3,10,10,7,3,5,1,2,Half Crimp,"Max weight, Min Edge",0,0,1,Laps of routes,0,0,No other strength training,15,30,0.002098765
+Male,189,80,1,3,7,7,5,4,10,4,2,Half Crimp,Max weight,0,0,1,"4x4, Max moves, Laps of routes",3,4,"Antagonists, Legs, Core, Upper body pulling, Upper body pushing",20,50,0.002239579
+Female,167.5,58,0.5,0.5,4,4,2,4,7,1,1,"Full Crimp, Front 3, Front 2, Middle 2, Slopers, Pinch",Repeaters,0,0,1,"4x4, Laps of routes, ARC, route climbing intervals",2,1,"Antagonists, Legs, Core, Upper body pulling, Upper body pushing",3,25,0.002067276
+Male,170,61.2,0,4.5,10,9,8,1,3,3,2,"Open Crimp, Front 3, Back 3, Front 2, Middle 2, Back 2, Slopers",One arm hang program,1,1,0,I don't train for endurance,2,2,"Antagonists, Core, Upper body pulling, Upper body pushing",15,15,0.002117647
+Male,187.96,74.8,-10.16,4.5,9,8,8,5,10,5,2,"Open Crimp, Slopers, Pinch","Max weight, Repeaters, One arm hang program",3,2,4,"hangboard repeater protocols, Max moves, systems boards, Laps of routes, route climbing intervals",4,2,"Core, Upper body pulling, Upper body pushing",25,40,0.002117243
+Male,181,72,-3,3,9,9,7,2,6,9,2,"Half Crimp, Open Crimp, Front 2, Middle 2, Back 2, Slopers, Pinch",Repeaters,1,1,0,I don't train for endurance,3,9,"Antagonists, Core, Upper body pulling, Upper body pushing",25,30,0.002197735
+Male,178,63,-7,13,11,9,8,3,6,3,1,"Open Crimp, Front 3, Slopers, Pinch","Max weight, Min Edge, Repeaters",1,1,1,"4x4, hangboard repeater protocols, systems boards, Laps of routes",3,1,"Antagonists, Core, Upper body pulling, Upper body pushing",24,30,0.001988385
+Male,172,61,-2,3.5,10,10,7,4,10,10,1,"Half Crimp, Open Crimp, Front 3, Monos","Max weight, Min Edge, ""no hangs""",0,0,1,"4x4, systems boards, ARC, route climbing intervals",3,3,"Antagonists, Legs, Core, Upper body pulling, Upper body pushing",22,60,0.002061925
+Male,175,68,0,7,6,5,4,2,5,2,1,"Half Crimp, Open Crimp, Front 3",Max weight,0,0,1,"Laps of routes, ARC",1,1,"Antagonists, Core, Upper body pulling, Upper body pushing",15,20,0.002220408
+Male,190.5,78,0,3,7,7,5,4,8,6,3,Half Crimp,"Max weight, Min Edge",0,0,0,I don't train for endurance,2,2,"Antagonists, Legs, Core, Upper body pulling, Upper body pushing",15,25,0.002149338
+Male,178,79,-3,0.5,6,6,4,3,5,4,2,"Open Crimp, Front 3, Front 2, Middle 2, Slopers","Max weight, Repeaters",0,0,2,"hangboard repeater protocols, Laps of routes",3,3,"Antagonists, Core, Upper body pulling, Upper body pushing",17,70,0.002493372
+Male,172,72,0,3.5,7,7,5,4,4,10,2,"Half Crimp, Pinch","Max weight, ""no hangs""",0,0,1,ARC,2,4,"Antagonists, Core, Upper body pulling, Upper body pushing",20,30,0.002433748
+Female,160,56,0,2,4,4,2,2,4,1,2,"Full Crimp, Half Crimp, Open Crimp",Other protocol,0,0,0,I don't train for endurance,3,4,"Legs, Core, Upper body pulling, Upper body pushing",5,40,0.0021875
+Male,187.96,77.5643,-4.04,6.5,7,7,4,2,8,5,1,"Full Crimp, Half Crimp, Open Crimp, Front 3, Front 2, Middle 2, Slopers",Repeaters,0,0,1,"hangboard repeater protocols, route climbing intervals, threshold intervals",1,2,"Antagonists, Legs, Upper body pulling, Upper body pushing",18,18,0.002195488
+Male,178,66,-2,6,8,8,6,3,10,6,1,"Open Crimp, Slopers",Other protocol,1,2,0,I don't train for endurance,1,3,"Antagonists, Core",20,20,0.00208307
+Male,185,70.3,-11,2,7,7,5,3,10,6,1,"Full Crimp, Half Crimp, Open Crimp, Slopers, Pinch",Repeaters,0,0,0,I don't train for endurance,3,6,"Antagonists, Legs, Core, Upper body pushing",20,35,0.002054054
+Male,180,72.5,20,1.5,8,8,6,5,8,4,1,"Open Crimp, Front 3, Back 3, Slopers",Repeaters,0,0,2,"4x4, systems boards",2,3,"Core, Upper body pulling, Upper body pushing",25,100,0.002237654
+Male,183,86,-5,3.5,7,7,5,3,6,2,0,"Open Crimp, Front 3, Back 3, Middle 2, Slopers, Pinch","Max weight, Min Edge, Repeaters",0,0,0,"4x4, hangboard repeater protocols, systems boards, Laps of routes, ARC",2,4,"Antagonists, Legs, Core, Upper body pulling, Upper body pushing",13,40,0.002568007
+Male,183,79,2,3.5,9,9,5,5,24,8,2,"Half Crimp, Open Crimp, Front 3, Back 3, Middle 2, Slopers, Pinch, Monos","Max weight, Min Edge, Repeaters, One arm hang program",0,0,2,"4x4, hangboard repeater protocols, Laps of routes, ARC",1,1,"Upper body pulling, Upper body pushing",19,50,0.002358984
+Male,182.9,80,2.9,3.5,8,7,6,3,5,4,2,"Open Crimp, Slopers, Pinch",Min Edge,1,1,1,Laps of routes,2,2,"Antagonists, Legs, Core, Upper body pulling, Upper body pushing",20,60,0.002391457
+Male,180,70,-3,6,9,8,7,5,8,3,3,"Half Crimp, Front 3, Middle 2, Slopers","Repeaters, One arm hang program",0,0,1,4x4,2,2,"Antagonists, Legs, Core, Upper body pulling, Upper body pushing",25,30,0.002160494
+Male,177.5,72.5,-1.5,0.5,5,5,3,3,4,3,1,"Half Crimp, Open Crimp",Max weight,0,0,1,"4x4, ARC",2,2,"Antagonists, Legs, Core, Upper body pulling, Upper body pushing",20,30,0.002301131
+Male,172,61,-8,0.5,8,8,6,4,6,8,2,"Half Crimp, Open Crimp, Back 3, Slopers, Pinch",Max weight,2,2,1,"4x4, systems boards, other",3,4,"Antagonists, Core, Upper body pulling, Upper body pushing",35,14,0.002061925
+Male,183,79,-8,5,9,9,7,4,8,3,1,"Full Crimp, Half Crimp, Open Crimp, Middle 2, Slopers","Min Edge, Repeaters",0,0,0,I don't train for endurance,3,3,"Antagonists, Core, Upper body pulling",20,33,0.002358984
+Male,182,83,-14,8.5,14,14,10,4,8,12,1,"Full Crimp, Half Crimp","Max weight, One arm hang program",0,0,0,I don't train for endurance,3,3,Upper body pulling,80,50,0.002505736
+Female,162.5,61,-5.5,3,9,9,8,4,7,8,2,"Half Crimp, Open Crimp, Pinch","Max weight, One arm hang program",1,1,3,"4x4, hangboard repeater protocols, Max moves, systems boards",3,6,"Antagonists, Legs, Core, Upper body pulling, Upper body pushing",12,40,0.002310059
+Male,177,74,-6,7,10,8,7,3,2,12,2,Half Crimp,"Max weight, Min Edge, Repeaters",1,1,1,"4x4, hangboard repeater protocols, systems boards",2,2,"Antagonists, Legs, Core, Upper body pulling, Upper body pushing",25,69,0.002362029
+Male,180,78,-1,14,10,9,7,4,10,12,2,"Half Crimp, Monos","Max weight, One arm hang program",1,1,1,route climbing intervals,2,1,"Antagonists, Legs, Core",30,30,0.002407407
+Male,185,88.45,185,10,9,8,6,3,5,2,2,"Half Crimp, Open Crimp",Max weight,0,0,0,"4x4, hangboard repeater protocols",2,4,"Antagonists, Legs, Upper body pushing",20,50,0.002584368
+Male,174,75,-4,2,5,5,4,3,3,4,2,"Half Crimp, Open Crimp",Min Edge,0,0,1,"Max moves, Laps of routes",2,1,"Antagonists, Core, Upper body pulling, Upper body pushing",12,45,0.00247721
+Male,180,70,-3,7.5,11,11,9,4,11,5,3,"Half Crimp, Front 3, Middle 2, Pinch","Max weight, Min Edge, Repeaters, One arm hang program, ""no hangs""",0,0,2,"4x4, Laps of routes",1,2,"Antagonists, Core, Upper body pulling, Upper body pushing",28,35,0.002160494
+Male,173,64,-13,10,12,12,10,7,14,8,2,Half Crimp,"Max weight, Min Edge, One arm hang program",2,1,1,4x4,3,8,"Antagonists, Core, Upper body pulling, Upper body pushing",37,80,0.002138394
+Male,175.26,70.3,1.26,0.5,7,7,5,6,10,3,3,Half Crimp,Min Edge,0,0,2,"4x4, Laps of routes",1,1,Upper body pushing,17,40,0.002288704
+Female,167,70,2,8,11,8,7,5,10,8,1,"Half Crimp, Open Crimp, Slopers, Pinch","Min Edge, Repeaters",1,1,2,"4x4, Laps of routes, ARC, route climbing intervals",2,5,"Antagonists, Core, Upper body pulling, Upper body pushing",12,20,0.00250995
+Female,162.56,56.699,0,10,6,6,4,3,7,1,1,Full Crimp,Max weight,0,0,0,I don't train for endurance,1,1,"Legs, Core, Upper body pulling",5,20,0.002145596
+Male,175,63.5,-10,4.5,8,8,7,5,9,2,2,Half Crimp,Max weight,0,0,0,I don't train for endurance,1,1,Upper body pushing,30,30,0.002073469
+Male,178,66,-10,3,6,6,4,3,5,1,1,"Open Crimp, Slopers",Repeaters,0,0,0,I don't train for endurance,1,1,"Core, Upper body pulling",16,35,0.00208307
+Female,165,53,1,4,4,5,3,2,2,2,0,Open Crimp,Min Edge,0,0,0,I don't train for endurance,1,1,Antagonists,3,10,0.00194674
+Male,180,86,0,1,5,5,4,3,3,3,1,"Half Crimp, Open Crimp, Front 3, Pinch","Min Edge, Repeaters",0,1,1,"4x4, systems boards",3,3,"Antagonists, Legs, Core, Upper body pulling, Upper body pushing",10,30,0.002654321
+Male,180,76,-7,1.5,6,5,4,3,3,3,2,"Full Crimp, Half Crimp, Open Crimp","Max weight, Repeaters",1,1,1,"hangboard repeater protocols, Laps of routes",4,4,"Antagonists, Legs, Core, Upper body pulling, Upper body pushing",22,50,0.002345679
+Male,180,72,0,3,8,8,5,4,12,9,2,"Half Crimp, Open Crimp, Slopers",Max weight,0,0,0,I don't train for endurance,2,3,"Core, Upper body pulling",20,27,0.002222222
+Male,188,82,2,0,4,4,3,3,11,1,1,"Open Crimp, Pinch",Other protocol,0,0,3,"4x4, Laps of routes, route climbing intervals, threshold intervals, other",1,1,"Core, Upper body pulling, Upper body pushing",9,50,0.002320054
+Male,186,80,-2,10.5,9,8,6,3,3,3,2,Half Crimp,"Max weight, Repeaters",2,1,1,"4x4, hangboard repeater protocols",1,1,"Antagonists, Legs, Core, Upper body pulling, Upper body pushing",15,30,0.002312406
+Male,185,78,0,7,8,6,4,2,3,10,2,"Half Crimp, Open Crimp","Max weight, Min Edge, Repeaters, ""no hangs"", Other protocol",1,1,2,"4x4, hangboard repeater protocols, Max moves, Laps of routes",2,1,"Core, Upper body pulling, Upper body pushing",12,25,0.002279036
+Male,183,73,-5,1.5,10,10,8,3,6,3,1,"Open Crimp, Front 3, Slopers, Pinch",Repeaters,1,0,2,"4x4, systems boards",2,2,"Antagonists, Legs, Core, Upper body pulling, Upper body pushing",55,118,0.00217982
+Male,180,165,0,3,8,7,5,4,10,8,1,"Half Crimp, Open Crimp, Front 3, Back 3, Front 2, Middle 2, Slopers, Pinch",Other protocol,2,1,2,"4x4, ARC",5,2,Core,25,50,0.005092593
+Male,176,54,-2,0.5,6,6,3,2,6,1,0,"Half Crimp, Open Crimp, Pinch",Repeaters,0,1,0,"systems boards, Laps of routes, other",0,1,"Antagonists, Legs, Upper body pushing",30,40,0.001743285
+Male,173,76,5,6,4,4,3,4,16,1,1,"Open Crimp, Back 3",Max weight,0,0,0,I don't train for endurance,1,1,"Core, Upper body pulling",12,20,0.002539343
+Male,190.5,70.3,0.5,1,7,7,6,3,7,3,1,"Half Crimp, Front 3, Front 2, Middle 2, Slopers","Max weight, Repeaters",0,0,1,"4x4, Laps of routes",1,1,"Core, Upper body pulling, Upper body pushing",20,30,0.001937159
+Male,170,73.66,2,0,6,5,3,4,14,3,4,"Full Crimp, Open Crimp, Back 3, Front 2","Max weight, Repeaters, One arm hang program",0,0,0,I don't train for endurance,5,2,"Antagonists, Legs, Core, Upper body pulling",18,30,0.002548789
+Female,176,56,7,2,5,5,3,3,6,1,2,Half Crimp,Max weight,0,0,0,I don't train for endurance,2,1,"Core, Upper body pulling, Upper body pushing",12,15,0.001807851
+Male,165,68,-10,5,9,9,9,3,3,3,1,Half Crimp,"Max weight, Min Edge",1,1,0,I don't train for endurance,3,1,"Core, Upper body pulling",24,50,0.002497704
+Male,185,75,-2,1.5,7,7,5,3,9,2,3,"Open Crimp, Front 3",Max weight,0,0,1,Laps of routes,2,2,"Antagonists, Core, Upper body pushing",17,27,0.002191381
+Male,180,70,0,3.5,11,11,9,4,5,4,4,"Full Crimp, Half Crimp, Front 3, Back 3, Front 2, Middle 2, Back 2, Slopers, Monos",Min Edge,3,2,2,"4x4, systems boards",1,1,Upper body pulling,30,40,0.002160494
+Male,180,72,-5,7.5,7,7,6,4,9,6,6,"Half Crimp, Open Crimp",Max weight,0,0,3,"4x4, Max moves, systems boards, Laps of routes, route climbing intervals",2,2,"Antagonists, Core, Upper body pulling, Upper body pushing",18,20,0.002222222
+Male,170,70,0,0.5,5,5,4,5,15,5,3,Full Crimp,Repeaters,0,0,2,"hangboard repeater protocols, Laps of routes, ARC",0,0,No other strength training,15,35,0.002422145
+Male,181,180,-4,0,4,5,2,3,2,10,1,"Half Crimp, Open Crimp, Front 3, Back 3, Slopers",Min Edge,1,1,1,Laps of routes,6,12,"Antagonists, Legs, Core, Upper body pulling, Upper body pushing",28,137,0.005494338
+Male,173,60,-2,4.5,10,10,7,4,6,12,3,Half Crimp,One arm hang program,0,0,2,I don't train for endurance,4,9,"Antagonists, Core, Upper body pulling",18,20,0.002004745
+Male,175,57,0,1.5,11,11,8,3,10,2,2,Half Crimp,"Max weight, Min Edge",1,0,0,I don't train for endurance,2,2,"Antagonists, Core, Upper body pulling",23,35,0.001861224
+Male,178,60,0,8,8,8,6,2,5,1,2,Half Crimp,Min Edge,0,0,0,I don't train for endurance,0,0,No other strength training,25,30,0.0018937
+Male,180,73,-3,5,8,8,4,2,5,2,1,"Half Crimp, Front 3, Middle 2, Monos",One arm hang program,1,1,0,I don't train for endurance,3,3,"Antagonists, Upper body pulling, Upper body pushing",20,25,0.002253086
+Female,160,45,-1,3.5,8,8,6,4,8,3,3,"Half Crimp, Open Crimp","Max weight, Repeaters",0,0,1,"I don't train for endurance, hangboard repeater protocols",2,1,"Core, Upper body pulling, Upper body pushing",20,30,0.001757813
+Male,178,70,-9,15,12,9,7,3,10,3,1,"Half Crimp, Open Crimp, Front 3, Back 3, Front 2, Middle 2, Back 2, Slopers","Repeaters, One arm hang program",1,1,0,I don't train for endurance,0,0,No other strength training,30,70,0.002209317

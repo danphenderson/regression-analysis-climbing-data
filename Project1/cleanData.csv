@@ -1,0 +1,296 @@
+﻿Sex,Height,Weight,ApeIndex,YearsClimbing,ClimbingType,HardestGrade,RecentHardestGrade,OnsightGrade,ClimbingSessionsPerWeek,HoursClimbingPerWeek,TraingingSessions,HangboardFreq,Style of Hangboarding chosen ,EnduranceTrainingFreq,StrengthTrainingFreq,HoursStrengthTrainingPerWeek,WeightTrainingType,MaxPullUpReps,L-sitTime
+Male,173,77,178,4.5,Indoor and outdoor climbing,8,8,6,4,8,6,0,I don't hangboard,1,3,4,"Antagonists, Legs, Core",15,30
+Male,178,67,175,0.5,Indoor and outdoor climbing,7,6,5,3,4,3,2,Other protocol,2,3,2,"Antagonists, Core, Upper body pulling, Upper body pushing",17,
+Male,173,70,178,9,Indoor and outdoor climbing,5,4,3,2,6,1,1,Max weight,1,0,0,"Antagonists, Legs, Core, No other strength training",8,
+Male,186,88,192,1.5,Indoor and outdoor climbing,5,5,3,3,8,8,1,Repeaters,2,3,4,"Antagonists, Core, Upper body pulling, Upper body pushing",9,
+Female,157.5,50.8,158,2.5,Indoor and outdoor climbing,4,3,2,2,4,1,0,I don't hangboard,1,2,2,"Antagonists, Core, Upper body pulling, Upper body pushing",3,
+Male,163,65,165,5,Indoor and outdoor climbing,11,9,7,4,12,4,1,"Min Edge, Repeaters",0,0,0,No other strength training,35,
+Male,188,100,195.6,3.5,Indoor and outdoor climbing,9,7,5,4,10,3,2,"Max weight, Min Edge, Repeaters",1,3,1,"Antagonists, Core, Upper body pulling",20,20
+Male,176,60,177,2.5,Indoor and outdoor climbing,7,7,5,3,8,2,1,Repeaters,0,1,1,"Antagonists, Core, Upper body pushing",10,30
+Male,190,82,197,2.5,Indoor and outdoor climbing,6,5,4,3,4,2,2,Other protocol,2,2,2,"Antagonists, Core, Upper body pulling, Upper body pushing",10,5
+Male,177,66,178,7.5,Indoor and outdoor climbing,7,7,6,3,8,1,0,Repeaters,1,1,1,"Antagonists, Core, Upper body pulling, Upper body pushing",20,20
+Male,179,69,178,12,Indoor and outdoor climbing,10,7,8,3,5,7,3,Repeaters,0,3,5,"Antagonists, Core, Upper body pulling, Upper body pushing",12,5
+Female,165.1,53,165.1,3.5,Indoor and outdoor climbing,3,3,1,5,10,3,1,Repeaters,0,3,2,"Antagonists, Core, Upper body pulling, Upper body pushing",5,
+Male,186,73,190,2,Indoor and outdoor climbing,5,5,3,2,6,1,0,I don't hangboard,1,1,1,"Core, Upper body pulling, Upper body pushing",12,0
+Male,183,100,185,2,Indoor and outdoor climbing,6,5,4,2,4,0,0,Repeaters,0,2,2,"Legs, Core, Upper body pulling, Upper body pushing",12,
+Male,167,60,179,3.5,Indoor and outdoor climbing,9,9,4,3,6,3,3,"Max weight, Repeaters",0,2,2,"Core, Upper body pulling, Upper body pushing",13,
+Male,173,86,173,1.5,Indoor and outdoor climbing,6,4,4,3,4,4,2,"Min Edge, Repeaters",2,4,8,"Antagonists, Legs, Core, Upper body pulling, Upper body pushing",32,26
+Male,182,72,182,15,Indoor and outdoor climbing,11,10,9,3,4,2,3,"Max weight, Min Edge, Repeaters",1,2,1,"Antagonists, Legs, Core, Upper body pulling, Upper body pushing",25,20
+Male,170,64,165,0.5,Indoor and outdoor climbing,6,6,5,1,3,3,0,I don't hangboard,0,0,0,No other strength training,16,30
+Male,175,177,168,3.5,Indoor and outdoor climbing,9,8,7,2,5,3,0,I don't hangboard,0,3,6,"Antagonists, Legs, Core, Upper body pulling, Upper body pushing",25,30
+Male,183,80,187,1.5,Indoor and outdoor climbing,4,4,3,3,6,0,0,I don't hangboard,0,2,4,"Antagonists, Legs, Core, Upper body pulling, Upper body pushing",10,20
+Male,182,73,184,14.5,Indoor and outdoor climbing,8,8,6,3,2,5,2,"Max weight, Min Edge",0,5,3,"Antagonists, Legs, Core, Upper body pulling, Upper body pushing",15,20
+Male,62,172,184,8,Indoor and outdoor climbing,11,10,8,3,7,5,3,"Max weight, Min Edge, Other protocol",0,3,2,"Antagonists, Legs, Core, Upper body pulling, Upper body pushing",13,20
+Male,193,79,193,2,Indoor and outdoor climbing,8,8,5,3,7,6,3,Repeaters,0,3,6,"Antagonists, Core, Upper body pushing",20,20
+Male,174,65,176,1,Indoor and outdoor climbing,5,5,3,3,8,1,0,I don't hangboard,0,1,1,"Antagonists, Legs, Core, Upper body pulling, Upper body pushing",15,1:30
+Male,186,72.5,190,2,Indoor and outdoor climbing,8,8,5,4,8,8,3,"Max weight, Min Edge",3,3,6,"Antagonists, Core, Upper body pulling, Upper body pushing",20,0
+Female,172.72,79.3787,85,2.5,Indoor and outdoor climbing,3,3,2,4,10,2,0,I don't hangboard,1,2,3,"Legs, Core, Upper body pulling, Upper body pushing",1,270
+Male,182,79,184,2.5,Indoor and outdoor climbing,6,5,4,3,10,1,0,I don't hangboard,0,3,7,"Antagonists, Core, Upper body pulling, Upper body pushing",12,25
+Male,170,59,172,2.5,Indoor and outdoor climbing,8,8,5,5,17,3,1,"Max weight, Repeaters",2,2,2,"Antagonists, Legs, Core, Upper body pushing",20,
+Female,168,69,165,4.5,Indoor and outdoor climbing,6,5,4,4,8,1,0,I don't hangboard,1,1,2,"Antagonists, Core, Upper body pushing",6,
+Male,178,72,180,10,Indoor and outdoor climbing,9,8,6,4,7,6,3,Max weight,1,2,1,"Antagonists, Legs, Upper body pulling, Upper body pushing",18,60
+Male,182.8,76,189,15,Indoor and outdoor climbing,8,6,4,2,4,8,3,"Max weight, Repeaters, Other protocol",1,1,1,"Antagonists, Core, Upper body pulling, Upper body pushing",12,
+Male,178,72,178,1.5,Indoor and outdoor climbing,8,6,5,3,10,3,1,Min Edge,1,3,2,"Antagonists, Legs, Core, Upper body pulling, Upper body pushing",10,
+Male,180,86,177,0.5,Indoor and outdoor climbing,7,7,5,3,9,2,1,Repeaters,1,0,0,No other strength training,45,24
+Male,174,75,180,11.5,Indoor and outdoor climbing,6,6,4,3,8,0,2,Repeaters,1,0,0,No other strength training,20,
+Male,178,59,183,2.5,Indoor and outdoor climbing,8,7,6,3,6,3,2,"Max weight, Repeaters",1,2,1,"Legs, Core, Upper body pulling, Upper body pushing",12,
+Male,178,70,195,14.5,Indoor and outdoor climbing,13,13,11,4,12,4,2,Max weight,1,3,3,"Antagonists, Legs, Core, Upper body pulling, Upper body pushing",25,45
+Male,178,75,180,5.5,Indoor and outdoor climbing,7,7,5,4,5,5,1,Max weight,1,4,3,"Antagonists, Legs, Core, Upper body pulling, Upper body pushing",12,10
+Male,174,73,179,4,Indoor and outdoor climbing,7,7,5,3,5,2,2,Max weight,0,1,1,Antagonists,15,
+Male,180,65.77,185,8,Indoor and outdoor climbing,11,11,8,4,5,10,2,Max weight,0,2,4,"Antagonists, Upper body pulling, Upper body pushing",30,
+Male,170,66.5,171,10.5,Indoor and outdoor climbing,4,4,3,2,4,8,1,Max weight,3,1,1,"Legs, Core, Upper body pulling, Upper body pushing",10,0
+Male,188,87,200,1,Indoor and outdoor climbing,6,6,4,3,7,2,0,I don't hangboard,0,2,1,"Antagonists, Core",8,0
+Male,180,74,180,2,Indoor and outdoor climbing,8,6,4,3,9,0,3,Max weight,0,3,5,"Antagonists, Legs, Core, Upper body pulling, Upper body pushing",12,10
+Male,175,73,177,15,Indoor and outdoor climbing,7,6,4,3,5,2,0,I don't hangboard,0,1,1,"Antagonists, Legs, Core, Upper body pulling",15,30
+Male,175,56.7,177.5,8,Indoor and outdoor climbing,10,9,7,3,9,1,1,Other protocol,0,0,0,No other strength training,20,
+Male,160,52,163,2,Indoor and outdoor climbing,7,7,5,3,9,9,3,Max weight,0,3,3,"Antagonists, Legs, Core, Upper body pushing",15,15
+Male,177,71,178,15,Indoor and outdoor climbing,10,9,8,3,7,2,2,"Max weight, Repeaters",2,3,2,"Antagonists, Legs, Core, Upper body pulling, Upper body pushing",25,
+Male,172,68,172,2,Indoor and outdoor climbing,9,9,7,3,4,5,2,"Max weight, Min Edge, Repeaters",0,3,9,"Antagonists, Legs, Core, Upper body pulling, Upper body pushing",25,
+Male,180,63,177,15,Indoor and outdoor climbing,9,8,7,3,4,6,2,Max weight,0,1,1,Core,22,30
+Male,184,78,184,4,Indoor and outdoor climbing,11,10,8,4,11,2,0,I don't hangboard,1,2,6,"Antagonists, Legs, Core, Upper body pulling, Upper body pushing",17,
+Male,183,77.5,193,2.5,Indoor and outdoor climbing,10,10,7,5,12,6,3,"Max weight, Min Edge",0,3,4,"Antagonists, Core, Upper body pulling, Upper body pushing",18,50 seconds
+Male,182,78,190,3,Indoor and outdoor climbing,7,6,4,3,2,3,1,Repeaters,0,2,1,"Antagonists, Legs, Core, Upper body pulling, Upper body pushing",20,20 sec
+Male,178,79,172,13,Indoor and outdoor climbing,8,7,5,4,9,0,0,I don't hangboard,0,0,0,No other strength training,12,
+Male,185,86,188,10,Indoor and outdoor climbing,7,6,5,2,5,1,0,Other protocol,0,0,0,"Antagonists, Core, Upper body pushing",15,
+Male,185,68,188,4,Indoor and outdoor climbing,8,7,5,3,3,0,0,I don't hangboard,0,0,0,No other strength training,10,
+Male,184,75,187,3.5,Indoor and outdoor climbing,7,7,5,3,12,6,1,Max weight,2,2,8,"Antagonists, Legs, Core, Upper body pushing",20,30sec
+Male,172,67,178,4,Indoor and outdoor climbing,9,8,7,4,10,10,0,Min Edge,0,5,10,"Antagonists, Core, Upper body pulling, Upper body pushing",20,
+Female,157.5,48.5,157,2.5,Indoor and outdoor climbing,7,7,5,4,8,4,2,Repeaters,1,4,3,"Legs, Core, Upper body pulling, Upper body pushing",7,15
+Male,180,73.4,183,7,Indoor and outdoor climbing,10,10,6,3,2,5,1,Max weight,0,3,1,"Antagonists, Core, Upper body pulling, Upper body pushing",25,45
+Female,168,52,172cm,7.5,Indoor and outdoor climbing,6,6,4,3,7,6,2,Repeaters,2,1,1,"Core, Upper body pulling",17,
+Male,180,70.3,187,9,Indoor and outdoor climbing,11,9,8,4,8,8,2,"Max weight, Repeaters",2,2,4,"Antagonists, Legs, Core, Upper body pulling, Upper body pushing",18,
+Male,182,72.5,182,3,Indoor and outdoor climbing,4,4,2,2,5,0,0,Max weight,0,0,1,"Antagonists, Core",10,
+Male,178,85,186,5.5,Indoor and outdoor climbing,8,6,4,1,3,3,0,I don't hangboard,1,5,9,"Antagonists, Legs, Core, Upper body pulling, Upper body pushing",20,Don't know 
+Male,176,58,179,5.5,Indoor and outdoor climbing,10,9,8,4,12,6,2,Repeaters,1,3,1,"Antagonists, Core, Upper body pulling, Upper body pushing",50,60 seconds
+Male,181,79.4,182,2.5,Indoor and outdoor climbing,9,9,7,5,9,3,2,Max weight,1,6,7,"Antagonists, Legs, Core, Upper body pulling, Upper body pushing",30,30 seconds?
+Male,183,71.2,183,10,Indoor and outdoor climbing,7,7,6,3,7,1,2,"Max weight, Min Edge",0,2,1,"Antagonists, Upper body pulling, Upper body pushing",14,
+Male,175,50,110,10.5,Indoor and outdoor climbing,7,7,4,1,3,8,0,I don't hangboard,0,7,7,"Legs, Core, Upper body pushing",10,1min
+Male,178,78,185,3,Indoor and outdoor climbing,7,6,4,4,6,8,1,Repeaters,1,1,2,"Core, Upper body pulling",15,
+Male,175,86,?,2,Indoor and outdoor climbing,6,6,4,4,12,4,2,"Max weight, Min Edge",1,1,2,"Legs, Core, Upper body pulling, Upper body pushing",15,60sefobds
+Male,179,70,178,11.5,Indoor and outdoor climbing,6,6,4,2,6,2,1,Repeaters,0,0,0,No other strength training,15,
+Male,165,63,169,14.5,Indoor and outdoor climbing,10,6,6,1,3,1,2,Repeaters,0,2,1,"Antagonists, Legs, Core, Upper body pulling, Upper body pushing",20,Nil
+Female,163,53,161,1,Indoor and outdoor climbing,3,3,2,2,5,2,0,I don't hangboard,1,1,1,"Legs, Core, Upper body pulling, No other strength training",2,
+Male,178,75,180,13,Indoor and outdoor climbing,10,10,7,4,16,4,2,Max weight,2,2,1,"Antagonists, Upper body pushing",25,
+Female,172,67,175,7.5,Indoor and outdoor climbing,9,9,8,4,1,9,1,Repeaters,0,3,3,"Core, Upper body pulling",12,
+Male,180.5,65.8,190.5,1.5,Indoor and outdoor climbing,8,8,6,3,9,1,0,I don't hangboard,1,0,0,No other strength training,15,N/a
+Male,172,59,172,2.5,Indoor and outdoor climbing,7,7,4,4,12,0,0,I don't hangboard,0,2,4,"Antagonists, Core, Upper body pushing",15,
+Male,163,62,173,4,Indoor and outdoor climbing,10,10,8,4,14,6,2,Other protocol,0,2,2,"Core, Upper body pulling, Upper body pushing",15,
+Male,171,64,172,1,Indoor and outdoor climbing,8,8,4,3,8,0,0,I don't hangboard,0,0,0,No other strength training,19,
+Female,152,51,Not sure,1,Indoor and outdoor climbing,5,5,3,3,7,4,0,I don't hangboard,1,3,4,"Antagonists, Core, Upper body pulling, Upper body pushing",8,10 sec (tucked)
+Male,188,73,199,0,Indoor and outdoor climbing,6,6,5,4,1,6,2,"Max weight, Min Edge",0,2,2,"Antagonists, Core, Upper body pulling",74,10
+Male,180,74,191,1,Indoor and outdoor climbing,9,9,6,5,15,2,2,Max weight,0,1,1,"Core, Upper body pulling, Upper body pushing",16,5 sec
+Male,182,68,182,2.5,Indoor and outdoor climbing,5,5,4,2,6,8,3,"Max weight, Repeaters",1,2,3,"Antagonists, Core, Upper body pulling, Upper body pushing",14,
+Male,186,76,180,6.5,Indoor and outdoor climbing,8,7,7,2,5,0,0,I don't hangboard,0,0,0,No other strength training,15,60
+Male,180,70,183,4.5,Indoor and outdoor climbing,9,8,6,2,6,0,0,I don't hangboard,0,0,0,No other strength training,14,?
+Male,172,58,178,1.5,Indoor and outdoor climbing,12,11,8,5,12,5,3,"Max weight, One arm hang program",0,3,3,"Core, Upper body pulling, Upper body pushing",25,Dunno
+Male,160,52,163,1,Indoor and outdoor climbing,5,4,3,2,5,2,1,"""no hangs""",0,2,2,"Antagonists, Legs, Core, Upper body pushing",17,15
+Male,190,93,195,3.5,Indoor and outdoor climbing,7,6,5,4,5,0,0,I don't hangboard,0,2,1,Core,15,
+Male,175,77,185,1.5,Indoor and outdoor climbing,9,7,6,3,9,3,2,"Min Edge, Repeaters",1,2,3,"Antagonists, Core, Upper body pulling, Upper body pushing",20,
+Male,182,77,186,1.5,Indoor and outdoor climbing,7,7,6,3,6,3,0,I don't hangboard,1,2,2,"Antagonists, Core, Upper body pulling, Upper body pushing",15,
+Male,180,74,180,1,Indoor and outdoor climbing,6,6,4,3,6,0,0,I don't hangboard,0,3,6,"Antagonists, Legs, Core, Upper body pulling, Upper body pushing",24,20 seconds
+Male,175,62.6,170,7.5,Indoor and outdoor climbing,10,10,7,4,12,4,1,"Max weight, Repeaters, ""no hangs""",1,2,3,"Antagonists, Legs, Core, Upper body pulling, Upper body pushing",25,
+Male,190,76,190,1,Indoor and outdoor climbing,5,5,4,2,4,0,0,I don't hangboard,0,2,1,"Antagonists, Core, Upper body pushing",14,
+Male,165,60.7,163,0.5,Indoor and outdoor climbing,7,7,5,4,6,6,2,Repeaters,1,3,6,"Antagonists, Legs, Core, Upper body pulling, Upper body pushing",21,No clue
+Male,191,82,196,1,Indoor and outdoor climbing,6,6,5,2,6,4,3,"Max weight, ""no hangs""",0,1,1,"Legs, Core, Upper body pulling, Upper body pushing",25,
+Male,181,74,182,0,Indoor and outdoor climbing,5,5,2,2,5,1,1,"Min Edge, Repeaters",0,1,1,"Legs, Core, Upper body pushing",22,?
+Female,180,76,185,15,Indoor and outdoor climbing,9,7,7,4,4,6,2,Max weight,2,2,1,"Legs, Core, Upper body pulling, Upper body pushing",13,
+Female,167cm,57,174,13.5,Indoor and outdoor climbing,9,7,5,4,10,4,3,Max weight,1,3,3,"Antagonists, Legs, Core, Upper body pulling, Upper body pushing",12,18sec
+Male,180,79,**,0.5,Indoor and outdoor climbing,6,6,4,3,5,8,2,"Max weight, Repeaters",1,3,3,"Antagonists, Legs, Core, Upper body pushing",20,N/a
+Male,171,59,177,2.5,Indoor and outdoor climbing,10,10,7,5,15,3,1,Repeaters,1,3,2,"Core, Upper body pulling, Upper body pushing",15,20 sec
+Male,175,68,182,0.5,Indoor and outdoor climbing,6,6,4,4,12,0,0,I don't hangboard,0,0,0,No other strength training,19,
+Male,170,66,181,0,Indoor and outdoor climbing,8,8,5,4,7,5,0,I don't hangboard,0,2,5,"Antagonists, Core, Upper body pulling, Upper body pushing",15,
+Male,186,72,182,15,Indoor and outdoor climbing,6,6,4,1,2,0,0,I don't hangboard,0,0,0,No other strength training,14,
+Male,177,63,188,3.5,Indoor and outdoor climbing,10,9,6,6,14,4,2,One arm hang program,0,2,2,"Antagonists, Core, Upper body pushing",31,30s
+Male,171,59,60,2.5,Indoor and outdoor climbing,6,6,5,2,10,1,1,Repeaters,1,2,1,"Antagonists, Core, Upper body pushing",20,2 minutes
+Male,170,75,170,11,Indoor and outdoor climbing,9,8,7,4,7,6,1,"Max weight, Min Edge",1,4,6,"Antagonists, Legs, Core, Upper body pushing",25,i suck!
+Male,196,83,197,4,Indoor and outdoor climbing,7,4,2,2,4,0,0,I don't hangboard,0,3,2,"Antagonists, Core",15,15
+Female,159.38,51.7095,170.7,1,Indoor and outdoor climbing,6,5,4,3,4,2,0,I don't hangboard,0,0,0,No other strength training,5,
+Male,179,87,186,8,Indoor and outdoor climbing,2,2,2,3,6,3,0,I don't hangboard,2,2,3,"Antagonists, Legs, Core, Upper body pulling, Upper body pushing",10,
+Male,166,53,160,2.5,Indoor and outdoor climbing,6,6,3,3,5,3,1,Repeaters,0,1,1,Core,10,
+Male,182,65,190,11,Indoor and outdoor climbing,10,9,6,1,4,0,0,I don't hangboard,0,0,0,No other strength training,20,0
+Male,182.88,72.5748,unknown,4,Indoor and outdoor climbing,6,6,4,3,6,3,2,"Min Edge, Repeaters",1,2,3,"Antagonists, Legs, Core, Upper body pulling, Upper body pushing",12,
+Male,168,65,190,3.5,Indoor and outdoor climbing,6,6,5,3,14,2,3,"Min Edge, Repeaters",1,2,2,"Legs, Core, Upper body pulling, Upper body pushing",15,unsure
+Male,176,81,178,15,Indoor and outdoor climbing,12,11,9,3,4,3,2,"Max weight, Min Edge",1,2,1,"Antagonists, Core",15,
+Female,165,53.5,172,8,Indoor and outdoor climbing,6,4,4,2,5,5,2,"Max weight, Repeaters",0,2,4,"Antagonists, Legs, Core, Upper body pushing",12,
+Male,191,89,201,1,Indoor and outdoor climbing,6,6,5,3,10,6,0,I don't hangboard,1,6,7,"Antagonists, Core, Upper body pulling, Upper body pushing",13,32sec
+Male,188,75,193,15,Indoor and outdoor climbing,8,7,6,4,4,4,2,"Max weight, Repeaters",2,2,2,"Antagonists, Legs, Core, Upper body pulling, Upper body pushing",16,
+Female,178,66,178,0.5,Indoor and outdoor climbing,5,5,3,6,20,10,0,I don't hangboard,0,5,5,"Antagonists, Legs, Core, Upper body pulling, Upper body pushing",4,0
+Male,184,68,179,15,Indoor and outdoor climbing,10,8,7,3,6,6,0,I don't hangboard,0,1,1,"Antagonists, Core, Upper body pulling, Upper body pushing",20,
+Male,180,79,183,5.5,Indoor and outdoor climbing,9,9,6,3,9,2,1,Min Edge,1,1,1,"Antagonists, Core, Upper body pulling, Upper body pushing",20,No idea
+Male,183,70,182,7,Indoor and outdoor climbing,9,9,7,3,9,3,3,Max weight,1,3,2,"Antagonists, Core, Upper body pulling",20,20 sec
+Male,178,65,178,3,Indoor and outdoor climbing,7,7,5,3,9,1,1,Max weight,1,0,0,No other strength training,12,~1 min
+Male,177,73,183,14,Indoor and outdoor climbing,12,11,10,4,12,4,3,Max weight,0,3,2,"Antagonists, Core, Upper body pulling, Upper body pushing",20,10
+Male,183,73,192,4,Indoor and outdoor climbing,5,3,4,1,4,3,1,Repeaters,0,2,4,"Antagonists, Legs, Core, Upper body pulling, Upper body pushing",20,
+Male,178,66,176,15,Indoor and outdoor climbing,6,7,5,3,6,7,0,I don't hangboard,1,0,0,Legs,10,Don't know
+Male,173,67,173,4,Indoor and outdoor climbing,6,4,5,3,6,4,0,I don't hangboard,0,2,3,"Upper body pulling, Upper body pushing",15,0
+Male,176,70,203,15,Indoor and outdoor climbing,9,6,4,3,9,4,2,"Max weight, Min Edge",3,2,4,"Antagonists, Legs, Core, Upper body pulling, Upper body pushing",15,
+Male,180,63,184,3.5,Indoor and outdoor climbing,10,7,6,0,0,0,1,Other protocol,1,2,1,"Antagonists, Core, Upper body pulling, Upper body pushing",8,
+Female,159,51-53...,161??,7,Indoor and outdoor climbing,6,5,2,3,8,4,1,"Repeaters, Other protocol",1,3,2,"Antagonists, Legs, Core",7,oooh...not sure
+Male,177,58.5,179,10,Indoor and outdoor climbing,10,9,7,5,6,5,2,"Max weight, Min Edge",2,2,2,"Antagonists, Core, Upper body pushing",28,
+Male,188,77,188,9.5,Indoor and outdoor climbing,7,7,6,3,9,1,1,"Max weight, Min Edge",0,1,1,"Antagonists, Legs, Upper body pulling, Upper body pushing",14,8 seconds
+Male,173 cm,72 kg,173 cm,15,Indoor and outdoor climbing,7,6,6,3,12,4,1,Repeaters,1,1,1,"Antagonists, Core, Upper body pulling, Upper body pushing",20,
+Male,193,88,198,15,Indoor and outdoor climbing,5,4,3,3,8,2,1,Repeaters,1,2,2,"Antagonists, Legs, Core, Upper body pulling, Upper body pushing",11,
+Male,188,84,196,3,Indoor and outdoor climbing,8,8,5,4,6,7,0,Max weight,2,2,2,"Antagonists, Core, Upper body pushing",25,
+Male,184,76,186,2,Indoor and outdoor climbing,6,6,3,3,8,0,0,I don't hangboard,0,0,0,No other strength training,15,
+Female,170,55,170,0.5,Indoor and outdoor climbing,4,4,2,3,4,1,0,I don't hangboard,1,1,2,"Antagonists, Legs, Core, Upper body pulling, Upper body pushing",8,1 min
+Male,175,68,175,15,Indoor and outdoor climbing,5,2,1,1,4,0,0,I don't hangboard,0,0,0,No other strength training,20,unkown
+Male,178,61,179,6,Indoor and outdoor climbing,10,8,7,3,8,1,0,I don't hangboard,0,0,1,"Core, Upper body pulling",24,
+Female,162.5,53,170,12,Indoor and outdoor climbing,10,9,7,3,12,6,2,Max weight,0,2,4,"Antagonists, Upper body pushing",5,Never tried this
+Male,179,74,179,2.5,Indoor and outdoor climbing,6,6,4,1,5,4,2,"Min Edge, Other protocol",1,2,4,"Antagonists, Core, Upper body pulling, Upper body pushing",15,
+Male,189,74,192,8,Indoor and outdoor climbing,12,11,9,5,13,2,2,"Max weight, Repeaters, One arm hang program",1,2,2,"Antagonists, Core, Upper body pulling, Upper body pushing",25,
+Female,159,53,158,10.5,Indoor and outdoor climbing,7,7,4,2,6,6,1,"Max weight, Repeaters, One arm hang program, Other protocol",2,1,2,"Antagonists, Legs, Core, Upper body pulling, Upper body pushing",12,
+Male,181,71,183,7.5,Indoor and outdoor climbing,9,9,5,5,8,3,1,Max weight,1,3,1,"Antagonists, Core, Upper body pushing",22,
+Male,175,57,180,2.5,Indoor and outdoor climbing,7,7,4,3,4,5,2,"Max weight, Repeaters",2,2,1,"Antagonists, Core, Upper body pulling",13,
+Male,174,57,180,6,Indoor and outdoor climbing,12,11,8,4,5,12,1,"Max weight, Min Edge, Repeaters, One arm hang program",3,1,2,"Core, Upper body pulling, Upper body pushing",35,
+Male,183,76,190,6.5,Indoor and outdoor climbing,3,3,2,3,12,6,0,I don't hangboard,1,6,6,"Antagonists, Legs, Core, Upper body pulling, Upper body pushing",30,1 second
+Male,180,68,181,3,Indoor and outdoor climbing,10,10,7,3,5,1,2,"Max weight, Min Edge",1,0,0,No other strength training,15,No
+Male,173,77,180,10,Indoor and outdoor climbing,7,7,5,4,6,3,1,Max weight,1,3,2,"Antagonists, Legs, Core, Upper body pulling, Upper body pushing",16,26s
+Male,189,80,188,3,Indoor and outdoor climbing,7,7,5,4,10,4,2,Max weight,1,3,4,"Antagonists, Legs, Core, Upper body pulling, Upper body pushing",20,20
+Male,177.8,65.7,177.8,1,Indoor and outdoor climbing,6,6,4,3,10,0,0,I don't hangboard,0,0,0,No other strength training,10,
+Female,167.5,58,167,0.5,Indoor and outdoor climbing,4,4,2,4,7,1,1,Repeaters,1,2,1,"Antagonists, Legs, Core, Upper body pulling, Upper body pushing",3,
+Male,170,61.2,170,4.5,Indoor and outdoor climbing,10,9,8,1,3,3,2,One arm hang program,0,2,2,"Antagonists, Core, Upper body pulling, Upper body pushing",15,2 minutes
+Male,179,70.3,182,1,Indoor and outdoor climbing,3,3,2,3,7,1,0,I don't hangboard,1,2,3,"Antagonists, Legs, Core, Upper body pulling, Upper body pushing",8,
+Female,162,53,164,0,Indoor and outdoor climbing,2,2,1,4,8,0,0,I don't hangboard,0,4,2,"Legs, Core, Upper body pulling",8,
+Female,170,54,169,1,Indoor and outdoor climbing,3,3,2,3,4,2,0,I don't hangboard,0,2,2,"Antagonists, Legs, Core, Upper body pulling, Upper body pushing",10,
+Male,187.96,74.8,198.12,4.5,Indoor and outdoor climbing,9,8,8,5,10,5,2,"Max weight, Repeaters, One arm hang program",4,4,2,"Core, Upper body pulling, Upper body pushing",25,25s 
+Male,168,63,171,2.5,Indoor and outdoor climbing,7,7,5,3,7,2,0,I don't hangboard,0,3,1,"Antagonists, Upper body pulling",17,15
+Male,181,72,184,3,Indoor and outdoor climbing,9,9,7,2,6,9,2,Repeaters,0,3,9,"Antagonists, Core, Upper body pulling, Upper body pushing",25,Floor: 25 seconds
+Male,172,70,180,1.5,Indoor and outdoor climbing,5,4,3,1,2,0,0,I don't hangboard,0,3,3,"Antagonists, Legs, Core, Upper body pushing",20,
+Male,183,80,175,0.5,Indoor and outdoor climbing,4,4,2,1,3,6,0,I don't hangboard,1,5,6,"Antagonists, Legs, Core, Upper body pulling, Upper body pushing",15,na
+Male,182,79,185,3.5,Indoor and outdoor climbing,6,6,5,2,4,2,2,Other protocol,0,1,2,"Upper body pulling, Upper body pushing",10,
+Male,175,61,177,1,Indoor and outdoor climbing,8,8,5,4,10,12,0,I don't hangboard,1,1,2,"Legs, Core, Upper body pulling, Upper body pushing",15,5 sec
+Male,177,81.5,176,1,Indoor and outdoor climbing,6,5,4,3,12,2,0,I don't hangboard,0,1,1,"Legs, Core, Upper body pulling",6,
+Male,183,70,190,2.5,Indoor and outdoor climbing,8,8,6,3,8,4,0,I don't hangboard,0,4,4,"Antagonists, Legs, Core, Upper body pulling, Upper body pushing",18,40
+Male,178,63,185,13,Indoor and outdoor climbing,11,9,8,3,6,3,1,"Max weight, Min Edge, Repeaters",1,3,1,"Antagonists, Core, Upper body pulling, Upper body pushing",24,
+Male,194,86,n/a,0.5,Indoor and outdoor climbing,6,6,3,3,2,6,1,Min Edge,1,1,2,"Antagonists, Upper body pulling",25,n/a
+Male,172,61,174,3.5,Indoor and outdoor climbing,10,10,7,4,10,10,1,"Max weight, Min Edge, ""no hangs""",1,3,3,"Antagonists, Legs, Core, Upper body pulling, Upper body pushing",22,30
+Male,175,68,175,7,Indoor and outdoor climbing,6,5,4,2,5,2,1,Max weight,1,1,1,"Antagonists, Core, Upper body pulling, Upper body pushing",15,
+Male,190.5,78,190.5,3,Indoor and outdoor climbing,7,7,5,4,8,6,3,"Max weight, Min Edge",0,2,2,"Antagonists, Legs, Core, Upper body pulling, Upper body pushing",15,0
+Male,184,75,78,4,Indoor and outdoor climbing,6,6,4,2,6,2,4,One arm hang program,2,1,1,"Core, Upper body pulling, Upper body pushing",15,
+Male,178,79,181,0.5,Indoor and outdoor climbing,6,6,4,3,5,4,2,"Max weight, Repeaters",2,3,3,"Antagonists, Core, Upper body pulling, Upper body pushing",17,
+Female,170,51,168,5,Indoor and outdoor climbing,7,4,4,2,4,5,0,I don't hangboard,0,1,1,"Legs, Core, Upper body pulling, Upper body pushing",15,
+Male,182,83.6,180,1,Indoor and outdoor climbing,6,6,3,3,5,4,0,I don't hangboard,0,0,0,"Antagonists, Core, Upper body pulling, Upper body pushing",6,
+Male,165,68,178,15,Indoor and outdoor climbing,13,10,10,3,5,4,0,I don't hangboard,0,0,0,No other strength training,10,
+Male,183,80,183,2,Indoor and outdoor climbing,7,7,4,2,3,1,0,I don't hangboard,0,1,1,"Antagonists, Core, Upper body pulling, Upper body pushing",15,
+Male,183,70,187,0.5,Indoor and outdoor climbing,7,7,5,3,8,1,0,I don't hangboard,0,0,0,No other strength training,18,
+Female,178,61,170,1,Indoor and outdoor climbing,3,3,2,3,9,1,0,I don't hangboard,1,1,1,Core,3,
+Male,180,74.8,180,7.5,Indoor and outdoor climbing,10,10,9,4,14,6,2,"Max weight, Min Edge",1,1,1,Core,15,
+Male,172,72,172,3.5,Indoor and outdoor climbing,7,7,5,4,4,10,2,"Max weight, ""no hangs""",1,2,4,"Antagonists, Core, Upper body pulling, Upper body pushing",20,n/a
+Male,178,77,178,4.5,Indoor and outdoor climbing,7,6,4,3,8,2,0,I don't hangboard,1,1,2,"Antagonists, Legs, Core, Upper body pushing",15,
+Female,160,54.4,160,0.5,Indoor and outdoor climbing,4,4,3,2,4,2,0,I don't hangboard,1,2,2,"Antagonists, Legs, Core",4,
+Female,160,56,160,2,Indoor and outdoor climbing,4,4,2,2,4,1,2,Other protocol,0,3,4,"Legs, Core, Upper body pulling, Upper body pushing",5,
+Male,187.96,77.5643,192,6.5,Indoor and outdoor climbing,7,7,4,2,8,5,1,Repeaters,1,1,2,"Antagonists, Legs, Upper body pulling, Upper body pushing",18,n/a
+Male,185,66,188,6,Indoor and outdoor climbing,10,10,6,4,14,3,0,I don't hangboard,0,2,2,Core,30,?
+Male,184,59,190,4,Indoor and outdoor climbing,4,4,3,1,2,0,0,I don't hangboard,0,0,0,No other strength training,4,
+Male,178,66,180,6,Indoor and outdoor climbing,8,8,6,3,10,6,1,Other protocol,0,1,3,"Antagonists, Core",20,-
+Male,169,79,162,0.5,Indoor and outdoor climbing,4,4,3,3,7,2,0,I don't hangboard,2,4,9,"Legs, Core, Upper body pulling, Upper body pushing",28,20
+Male,185,70.3,196,2,Indoor and outdoor climbing,7,7,5,3,10,6,1,Repeaters,0,3,6,"Antagonists, Legs, Core, Upper body pushing",20,115
+Female,165,61,160.6,1,Indoor and outdoor climbing,4,4,2,3,7,0,0,I don't hangboard,0,0,0,No other strength training,4,
+Male,180,72.5,160,1.5,Indoor and outdoor climbing,8,8,6,5,8,4,1,Repeaters,2,2,3,"Core, Upper body pulling, Upper body pushing",25,
+Male,178,68,180,2,Indoor and outdoor climbing,9,8,5,2,6,5,2,"Max weight, Repeaters",2,2,3,"Antagonists, Core, Upper body pulling",25,
+Male,183,86,188,3.5,Indoor and outdoor climbing,7,7,5,3,6,2,0,"Max weight, Min Edge, Repeaters",0,2,4,"Antagonists, Legs, Core, Upper body pulling, Upper body pushing",13,30sec
+Male,180,81.65,dunno,2,Indoor and outdoor climbing,7,6,4,3,10,2,0,Repeaters,0,0,0,No other strength training,8,
+Male,183,79,181,3.5,Indoor and outdoor climbing,9,9,5,5,24,8,2,"Max weight, Min Edge, Repeaters, One arm hang program",2,1,1,"Upper body pulling, Upper body pushing",19,50 seconds
+Male,182.9,80,180,3.5,Indoor and outdoor climbing,8,7,6,3,5,4,2,Min Edge,1,2,2,"Antagonists, Legs, Core, Upper body pulling, Upper body pushing",20,
+Male,183,80,76,10.5,Indoor and outdoor climbing,9,8,6,2,3,3,0,I don't hangboard,1,2,2,"Antagonists, Upper body pushing",35,30secs
+Male,180,92,190,1,Indoor and outdoor climbing,5,4,3,2,4,0,0,I don't hangboard,1,1,1,"Legs, Core, Upper body pulling",8,30s
+Male,180,70,183,6,Indoor and outdoor climbing,9,8,7,5,8,3,3,"Repeaters, One arm hang program",1,2,2,"Antagonists, Legs, Core, Upper body pulling, Upper body pushing",25,30 s
+Male,192,89,208,1.5,Indoor and outdoor climbing,6,6,4,3,10,4,0,I don't hangboard,0,6,4,"Antagonists, Core, Upper body pulling, Upper body pushing",12,35s+ (max untested)
+Male,177.5,72.5,179,0.5,Indoor and outdoor climbing,5,5,3,3,4,3,1,Max weight,1,2,2,"Antagonists, Legs, Core, Upper body pulling, Upper body pushing",20,25 seconds
+Male,183,98,183,5,Indoor and outdoor climbing,4,4,3,3,10,2,1,Max weight,2,2,5,"Core, Upper body pulling, Upper body pushing",9,
+Male,160,64.41,159.6,5,Indoor and outdoor climbing,7,7,5,2,7,3,0,I don't hangboard,0,2,2,"Antagonists, Legs, Core, Upper body pushing",30,
+Male,179,68,179,7,Indoor and outdoor climbing,6,5,4,3,6,1,1,Repeaters,0,0,0,No other strength training,12,
+Male,171,65,168,0.5,Indoor and outdoor climbing,3,3,2,3,6,1,0,I don't hangboard,2,2,2,"Legs, Core, Upper body pulling, Upper body pushing",20,
+Male,172,61,180,0.5,Indoor and outdoor climbing,8,8,6,4,6,8,2,Max weight,1,3,4,"Antagonists, Core, Upper body pulling, Upper body pushing",35,40
+Male,183,79,191,5,Indoor and outdoor climbing,9,9,7,4,8,3,1,"Min Edge, Repeaters",0,3,3,"Antagonists, Core, Upper body pulling",20,45
+Male,182,83,196,8.5,Indoor and outdoor climbing,14,14,10,4,8,12,1,"Max weight, One arm hang program",0,3,3,Upper body pulling,80,fuck that
+Male,177,64,192,4,Indoor and outdoor climbing,10,9,7,5,20,4,2,One arm hang program,0,1,2,"Antagonists, Core, Upper body pulling, Upper body pushing",30,30s
+Female,162.5,61,168,3,Indoor and outdoor climbing,9,9,8,4,7,8,2,"Max weight, One arm hang program",3,3,6,"Antagonists, Legs, Core, Upper body pulling, Upper body pushing",12,30 sec
+Male,177,74,183,7,Indoor and outdoor climbing,10,8,7,3,2,12,2,"Max weight, Min Edge, Repeaters",1,2,2,"Antagonists, Legs, Core, Upper body pulling, Upper body pushing",25,23
+Male,180,78,181,14,Indoor and outdoor climbing,10,9,7,4,10,12,2,"Max weight, One arm hang program",1,2,1,"Antagonists, Legs, Core",30,20
+Male,185,88.45,0,10,Indoor and outdoor climbing,9,8,6,3,5,2,2,Max weight,0,2,4,"Antagonists, Legs, Upper body pushing",20,10
+Male,174,75,178,2,Indoor and outdoor climbing,5,5,4,3,3,4,2,Min Edge,1,2,1,"Antagonists, Core, Upper body pulling, Upper body pushing",12,
+Male,180,70,183,7.5,Indoor and outdoor climbing,11,11,9,4,11,5,3,"Max weight, Min Edge, Repeaters, One arm hang program, ""no hangs""",2,1,2,"Antagonists, Core, Upper body pulling, Upper body pushing",28,30 seconds
+Male,173,64,186,10,Indoor and outdoor climbing,12,12,10,7,14,8,2,"Max weight, Min Edge, One arm hang program",1,3,8,"Antagonists, Core, Upper body pulling, Upper body pushing",37,1:21
+Male,173,63,185,7,Indoor and outdoor climbing,13,13,9,4,3,4,1,One arm hang program,2,4,2,Core,25,
+Male,185,100,187,1.5,Indoor and outdoor climbing,5,4,2,2,3,0,0,I don't hangboard,0,3,5,"Antagonists, Legs, Core, Upper body pulling, Upper body pushing",20,
+Male,185,65,183,2,Indoor and outdoor climbing,7,6,5,2,7,1,0,I don't hangboard,1,1,1,"Antagonists, Core",6,-
+Male,191,113,180,0,Indoor and outdoor climbing,3,3,0,2,4,6,0,I don't hangboard,0,3,6,"Legs, Core, Upper body pulling, Upper body pushing",0,
+Male,170,68,190,1.5,Indoor and outdoor climbing,5,5,3,1,2,0,0,I don't hangboard,0,1,1,Antagonists,15,N/A
+Male,175.26,70.3,174,0.5,Indoor and outdoor climbing,7,7,5,6,10,3,3,Min Edge,2,1,1,Upper body pushing,17,45 sec
+Female,167,70,165,8,Indoor and outdoor climbing,11,8,7,5,10,8,1,"Min Edge, Repeaters",2,2,5,"Antagonists, Core, Upper body pulling, Upper body pushing",12,34
+Female,162.56,56.699,162.56,10,Indoor and outdoor climbing,6,6,4,3,7,1,1,Max weight,0,1,1,"Legs, Core, Upper body pulling",5,
+Male,175,63.5,185,4.5,Indoor and outdoor climbing,8,8,7,5,9,2,2,Max weight,0,1,1,Upper body pushing,30,20 seconds
+Male,178,66,188,3,Indoor and outdoor climbing,6,6,4,3,5,1,1,Repeaters,0,1,1,"Core, Upper body pulling",16,
+Male,187,72,190,2.5,Indoor and outdoor climbing,8,8,6,3,10,2,0,I don't hangboard,1,0,0,No other strength training,18,?
+Male,178,66,182,8.5,Indoor and outdoor climbing,11,11,8,4,10,1,0,One arm hang program,0,0,1,"Antagonists, Core",25,
+Female,165,53,164,4,Indoor and outdoor climbing,4,5,3,2,2,2,0,Min Edge,0,1,1,Antagonists,3,
+Male,180,86,180,1,Indoor and outdoor climbing,5,5,4,3,3,3,1,"Min Edge, Repeaters",1,3,3,"Antagonists, Legs, Core, Upper body pulling, Upper body pushing",10,10
+Male,184,87,185,2,Indoor and outdoor climbing,4,4,3,3,2,3,0,I don't hangboard,1,3,2,"Antagonists, Legs, Core, Upper body pulling, Upper body pushing",13,30
+Male,180,76,187,1.5,Indoor and outdoor climbing,6,5,4,3,3,3,2,"Max weight, Repeaters",1,4,4,"Antagonists, Legs, Core, Upper body pulling, Upper body pushing",22,45
+Male,177,69,172,0.5,Indoor and outdoor climbing,5,5,3,3,8,1,0,I don't hangboard,0,3,1,"Antagonists, Core, Upper body pulling",3,
+Male,180,72,180,3,Indoor and outdoor climbing,8,8,5,4,12,9,2,Max weight,0,2,3,"Core, Upper body pulling",20,30
+Male,167,62.5,172,1,Indoor and outdoor climbing,7,6,4,4,12,0,0,I don't hangboard,0,0,0,No other strength training,25,5 seconds 
+Male,177.8,58.967,185.928,4.5,Indoor and outdoor climbing,9,8,7,4,8,0,0,I don't hangboard,0,1,1,"Legs, Core, Upper body pulling, Upper body pushing",13,no idea
+Male,180,59,185,3,Indoor and outdoor climbing,5,5,3,2,6,0,0,I don't hangboard,0,0,0,No other strength training,11,
+Male,176,73.3,184,6.5,Outdoor Climbing only,7,6,4,2,4,2,2,"Min Edge, Repeaters, One arm hang program",0,2,2,"Legs, Upper body pulling, Upper body pushing",12,
+Female,165,63.5,164,3.5,Indoor and outdoor climbing,6,4,3,2,6,1,1,Other protocol,1,1,1,"Legs, Core, Upper body pulling, Upper body pushing",10,
+Female,168,140,170,5.5,Indoor and outdoor climbing,6,3,2,2,3,4,0,I don't hangboard,0,2,1,"Legs, Core, Upper body pulling, Upper body pushing",3,
+Male,193,86,193,1,Indoor and outdoor climbing,7,7,2,3,9,0,0,I don't hangboard,0,0,0,No other strength training,10,
+Male,175,77,179,2,Indoor and outdoor climbing,6,6,4,3,6,0,0,I don't hangboard,0,1,1,Antagonists,15,
+Male,188,82,186,0,Indoor and outdoor climbing,4,4,3,3,11,1,1,Other protocol,3,1,1,"Core, Upper body pulling, Upper body pushing",9,
+Female,171,68,167,3.5,Indoor and outdoor climbing,5,6,4,3,7,0,0,I don't hangboard,0,0,0,No other strength training,6,
+Male,186,80,188,10.5,Indoor and outdoor climbing,9,8,6,3,3,3,2,"Max weight, Repeaters",1,1,1,"Antagonists, Legs, Core, Upper body pulling, Upper body pushing",15,25
+Female,167.64,56.699,167.64,2.5,Indoor and outdoor climbing,8,8,6,4,16,3,0,I don't hangboard,0,2,2,"Antagonists, Legs, Core, Upper body pulling, Upper body pushing",20,unknown 
+Male,185,78,185,7,Indoor and outdoor climbing,8,6,4,2,3,10,2,"Max weight, Min Edge, Repeaters, ""no hangs"", Other protocol",2,2,1,"Core, Upper body pulling, Upper body pushing",12,0
+Male,180,72.5,185,9.5,Indoor and outdoor climbing,8,7,4,2,5,1,0,I don't hangboard,0,2,1,No other strength training,14,
+Male,175,65.5,177,4,Indoor and outdoor climbing,8,8,5,2,5,2,0,I don't hangboard,0,2,2,"Core, Upper body pulling, Upper body pushing",15,0
+Male,183,73,188,1.5,Indoor and outdoor climbing,10,10,8,3,6,3,1,Repeaters,2,2,2,"Antagonists, Legs, Core, Upper body pulling, Upper body pushing",55,10 minutes
+Male,180,165,180,3,Indoor and outdoor climbing,8,7,5,4,10,8,1,Other protocol,2,5,2,Core,25,
+Male,184,80,184,2.5,Indoor and outdoor climbing,4,4,5,3,6,3,1,Repeaters,1,3,3,"Antagonists, Legs, Upper body pulling, Upper body pushing",14,
+Male,176,54,178,0.5,Indoor and outdoor climbing,6,6,3,2,6,1,0,Repeaters,0,0,1,"Antagonists, Legs, Upper body pushing",30,no idea
+Male,178,80,178,0.5,Indoor and outdoor climbing,4,4,2,2,3,0,0,I don't hangboard,0,0,0,No other strength training,8,
+Male,169,63,178,1,Indoor and outdoor climbing,6,6,5,3,6,1,0,"Max weight, Min Edge",0,3,3,"Core, Upper body pulling, Upper body pushing",24,NA
+Male,168.5,76,178,0.5,Indoor and outdoor climbing,5,5,3,1,4,4,0,I don't hangboard,0,3,3,"Legs, Core, Upper body pulling, Upper body pushing",30,
+Male,173,76,168,6,Indoor and outdoor climbing,4,4,3,4,16,1,1,Max weight,0,1,1,"Core, Upper body pulling",12,20
+Male,190.5,70.3,190,1,Indoor and outdoor climbing,7,7,6,3,7,3,1,"Max weight, Repeaters",1,1,1,"Core, Upper body pulling, Upper body pushing",20,
+Male,170,73.66,168,0,Indoor and outdoor climbing,6,5,3,4,14,3,4,"Max weight, Repeaters, One arm hang program",0,5,2,"Antagonists, Legs, Core, Upper body pulling",18,
+Female,176,56,169,2,Indoor and outdoor climbing,5,5,3,3,6,1,2,Max weight,0,2,1,"Core, Upper body pulling, Upper body pushing",12,
+Male,183,70,184,0.5,Indoor and outdoor climbing,6,6,3,2,4,0,0,I don't hangboard,0,4,4,"Antagonists, Legs, Core, Upper body pulling, Upper body pushing",15,1
+Female,170,56,171,0.5,Indoor and outdoor climbing,6,6,4,3,6,1,0,I don't hangboard,0,1,1,"Antagonists, Legs",15,
+Male,183,72,180,1,Indoor and outdoor climbing,6,6,4,3,9,0,0,I don't hangboard,0,0,0,No other strength training,14,
+Male,165,68,175,5,Indoor and outdoor climbing,9,9,9,3,3,3,1,"Max weight, Min Edge",0,3,1,"Core, Upper body pulling",24,60s
+Male,188,77,191,0.5,Indoor and outdoor climbing,4,4,3,3,8,1,0,I don't hangboard,1,1,1,Antagonists,7,5
+Male,181,75,190,2,Indoor and outdoor climbing,5,5,4,3,9,2,0,I don't hangboard,0,4,2,"Antagonists, Legs, Upper body pulling, Upper body pushing",19,15
+Male,178,78kg,?,4,Indoor and outdoor climbing,6,6,4,3,3,3,2,"Max weight, Repeaters",1,2,2,"Antagonists, Legs, Core, Upper body pulling, Upper body pushing",4,
+Female,163,56,168,2,Indoor and outdoor climbing,5,5,3,4,10,1,0,I don't hangboard,1,0,0,No other strength training,15,
+Male,173,65,177,4.5,Indoor and outdoor climbing,10,10,6,3,2,5,0,I don't hangboard,0,0,0,No other strength training,12,
+Male,178,65,180,0.5,Indoor and outdoor climbing,5,5,3,2,7,1,0,I don't hangboard,0,2,2,"Antagonists, Legs, Core, Upper body pulling, Upper body pushing",12,
+Male,185,74,185,12.5,Outdoor Climbing only,7,7,5,4,12,1,1,"Max weight, Repeaters, Other protocol",1,1,1,"Antagonists, Core",15,NA
+Male,185,75,187,1.5,Indoor and outdoor climbing,7,7,5,3,9,2,3,Max weight,1,2,2,"Antagonists, Core, Upper body pushing",17,
+Male,175,68,175,0,Indoor and outdoor climbing,5,5,4,3,9,2,0,I don't hangboard,0,3,8,"Antagonists, Legs, Core, Upper body pulling, Upper body pushing",14,
+Male,176,78,80,1,Indoor and outdoor climbing,4,4,3,3,4,4,0,I don't hangboard,0,3,3,"Legs, Core, Upper body pulling, Upper body pushing",10,
+Male,164,65,168,1,Indoor and outdoor climbing,6,5,4,3,7,1,0,I don't hangboard,1,1,2,"Antagonists, Core, Upper body pushing",10,0
+Male,180,63.5,175,2,Indoor and outdoor climbing,5,5,3,2,4,2,0,I don't hangboard,0,2,1,"Antagonists, Legs, Core, Upper body pulling, Upper body pushing",12,30
+Male,180,70,180,3.5,Indoor and outdoor climbing,11,11,9,4,5,4,4,Min Edge,2,1,1,Upper body pulling,30,5
+Male,175,68,175,14.5,Indoor and outdoor climbing,8,7,7,1,3,3,2,Repeaters,2,4,5,"Antagonists, Legs, Core, Upper body pulling, Upper body pushing",30,
+Male,162,56,162,2.5,Indoor and outdoor climbing,8,8,6,4,12,3,1,Repeaters,3,1,1,"Core, Upper body pulling, Upper body pushing",30,
+Male,180,72,185,7.5,Indoor and outdoor climbing,7,7,6,4,9,6,6,Max weight,3,2,2,"Antagonists, Core, Upper body pulling, Upper body pushing",18,30
+Male,170,70,170,0.5,Indoor and outdoor climbing,5,5,4,5,15,5,3,Repeaters,2,0,0,No other strength training,15,
+Male,181,180,185,0,Indoor and outdoor climbing,4,5,2,3,2,10,1,Min Edge,1,6,12,"Antagonists, Legs, Core, Upper body pulling, Upper body pushing",28,
+Male,188,80,191,2.5,Indoor and outdoor climbing,7,7,4,3,8,1,0,I don't hangboard,1,1,1,"Antagonists, Core, Upper body pulling",15,
+Male,188,71,185,2.5,Indoor and outdoor climbing,9,9,6,4,7,4,2,"Max weight, Repeaters",0,3,3,"Core, Upper body pulling, Upper body pushing",20,
+Male,183,155,195,3.5,Outdoor Climbing only,4,4,2,2,5,0,1,Repeaters,0,0,1,Antagonists,20,
+Male,167.64,60.328,169,0.5,Indoor and outdoor climbing,5,5,3,3,5,1,0,I don't hangboard,2,1,1,"Core, Upper body pulling, Upper body pushing",5,
+Male,173,60,175,4.5,Indoor and outdoor climbing,10,10,7,4,6,12,3,One arm hang program,2,4,9,"Antagonists, Core, Upper body pulling",18,1
+Female,169,65,168,15,Indoor and outdoor climbing,5,4,3,1,2,0,0,I don't hangboard,0,0,0,No other strength training,1,0
+Male,175,57,175,1.5,Indoor and outdoor climbing,11,11,8,3,10,2,2,"Max weight, Min Edge",0,2,2,"Antagonists, Core, Upper body pulling",23,
+Male,178,71,185,11,Indoor and outdoor climbing,8,8,6,3,3,1,2,Max weight,0,3,2,"Antagonists, Core, Upper body pulling, Upper body pushing",18,
+Male,179,69,185,15,Indoor and outdoor climbing,9,9,5,3,10,3,1,"Max weight, Min Edge, Repeaters, One arm hang program",1,1,1,"Legs, Core, Upper body pulling, Upper body pushing",25,
+Male,178,60,178,8,Indoor and outdoor climbing,8,8,6,2,5,1,2,Min Edge,0,0,0,No other strength training,25,0
+Male,180,73,183,5,Indoor and outdoor climbing,8,8,4,2,5,2,1,One arm hang program,0,3,3,"Antagonists, Upper body pulling, Upper body pushing",20,40
+Male,178,75,166,1.5,Indoor and outdoor climbing,4,4,2,2,1,5,0,I don't hangboard,0,2,2,"Antagonists, Legs, Core, Upper body pulling, Upper body pushing",7,
+Male,182,70,190.5,5,Indoor and outdoor climbing,7,7,5,3,5,3,0,I don't hangboard,0,3,3,"Antagonists, Core, Upper body pulling, Upper body pushing",25,8
+Female,160,45,161,3.5,Indoor and outdoor climbing,8,8,6,4,8,3,3,"Max weight, Repeaters",1,2,1,"Core, Upper body pulling, Upper body pushing",20,
+Male,178,70,187,15,Indoor and outdoor climbing,12,9,7,3,10,3,1,"Repeaters, One arm hang program",0,0,0,No other strength training,30,35
+Female,172,62,175,15,Indoor and outdoor climbing,5,3,2,3,12,12,2,"Max weight, Repeaters",0,5,6,"Antagonists, Legs, Core, Upper body pulling, Upper body pushing",0,0

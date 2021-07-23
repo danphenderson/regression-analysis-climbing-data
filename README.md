@@ -1,4 +1,4 @@
-A comprehensive study of a data set gathered from a survey posted on the /climbharder subreddit.
+A comprehensive study of observations gathered from a survey posted on the /climbharder subreddit.
 
 ----
 
